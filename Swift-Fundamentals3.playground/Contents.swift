@@ -27,4 +27,7 @@ for index in 0..<numbers.count{
         break
     }
 }
-// NEW CHANGE ON MY FILE 
+
+func newFunction(x: Int) -> Int{
+    return x*x
+}
